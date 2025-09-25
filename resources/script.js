@@ -12,6 +12,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
         //Mostramos una alreta del navegador con el contenido del input
         alert("Hello World " + name.value);
+        console.log("Se imprimo el hola mundo");
+        console.error("Esto es un error simulado");
     })
 
 })

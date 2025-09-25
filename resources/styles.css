@@ -47,6 +47,14 @@ main p{
 
 }
 
+.button-sum{
+    padding: 10px 20px;
+    background-color: #6a4fff8a;
+    color: rgb(255, 255, 255);
+    cursor:pointer;
+
+}
+
 footer{
     background-color: #7660ff9c;
     color: aliceblue;
